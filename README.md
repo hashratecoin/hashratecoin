@@ -1,4 +1,9 @@
+
+
 # hashratecoin
+
+![HashrateCoin Logo](/hashratecoin_logo_220x221.png)
+
 Hashrate Coin is a digital currency for buying and selling computing power and hashrate. It is a cryptonote based coin using the Cryptonight algorithm with several improvements over period of time.
 
 ## Coin Specifications
