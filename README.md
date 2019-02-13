@@ -10,7 +10,7 @@ Hashrate Coin is a digital currency for buying and selling computing power and h
 A standalone GUI wallet is coing soon
 
 ## Run Node
-1. Install required packages
+> Install required packages
 
 sudo apt-get update
 
@@ -18,7 +18,7 @@ sudo apt-get install libboost-all-dev
 
 sudo apt-get install build-essential cmake pkg-config libssl-dev libunbound-dev libminiupnpc-dev libunwind8-dev liblzma-dev libldns-dev libexpat1-dev libgtest-dev doxygen graphviz
 
-Now get the code from git repository and build
+> Get the code from git repository and build
 
 git clone node
 
@@ -26,7 +26,7 @@ cd node
 
 make
 
-3. Now you can run the node using the following command.
+> Run the node using the following command.
 
 ./hashratecoind
 
