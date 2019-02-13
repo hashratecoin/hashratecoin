@@ -20,7 +20,7 @@ sudo apt-get install build-essential cmake pkg-config libssl-dev libunbound-dev 
 
 > Get the code from git repository and build
 
-git clone node
+git clone https://github.com/hashratecoin/hashratecoin.git node
 
 cd node
 
