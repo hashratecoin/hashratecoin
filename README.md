@@ -29,6 +29,10 @@ git clone https://github.com/hashratecoin/hashratecoin.git node
 
 cd node
 
+> Get the rocks lib from the hashratecoin wesbite or build yourself
+
+copy librocksdb.a from http://hashratecoin.org/downloads/librocksdb.a to \external\rocksdb folder before running make
+
 make
 
 > Run the node using the following command.
