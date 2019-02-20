@@ -525,7 +525,7 @@ bool simple_wallet::init(const boost::program_options::variables_map& vm) {
   }
 
   if (m_generate_new.empty() && m_wallet_file_arg.empty()) {
-    std::cout << "VideoGamesCoin CLI wallet\n\n"
+    std::cout << "HashrateCoin CLI wallet\n\n"
 			 " ____ _________________________________     ____ ____________________________________ \n"
 			 "||G |||Generate a new hashratecoin wallet file ||   ||I |||Create a new hashratecoin wallet file from ||\n"
 			 "||__|||_______________________________||   ||__|||the Secret Spend and View keys    ||\n"
