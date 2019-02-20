@@ -31,7 +31,10 @@ cd node
 
 > Get the rocks lib from the hashratecoin wesbite or build yourself
 
-copy librocksdb.a from http://hashratecoin.org/downloads/librocksdb.a to \external\rocksdb folder before running make
+copy librocksdb.a from http://hashratecoin.org/downloads/librocksdb.a or 
+https://drive.google.com/file/d/1ocCU8u52tDzP02n0C87Y67Dh5p7_ipa1/view?usp=drive_web
+
+to \external\rocksdb folder before running make
 
 make
 
